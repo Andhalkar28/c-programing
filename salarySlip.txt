@@ -1,0 +1,9 @@
+
+ 	------------------Employee Salary Slip------------------------
+ 	ID              :111
+ 	Name            :omkar
+ 	Basic Salary    :50000.00
+ 	DA(%)          :10.00
+ 	HRA(%)         :10.00
+ 	TAX(%)         :10.00
+ 	Total Salary(%):65000.00
